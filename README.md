@@ -11,12 +11,16 @@
 - 🌍 **Otras herramientas:** Vercel, Git, Docker  
 
 ## 💡 Sobre mí  
-Durante mi formación, he trabajado en diversos proyectos, enfocándome en mejorar la accesibilidad, rendimiento y experiencia del usuario. También he desarrollado habilidades de trabajo en equipo aplicando la **metodología Scrum**, colaborando en entornos ágiles para la entrega eficiente de soluciones digitales.  
+Me gusta desarrollar soluciones que no solo sean funcionales, sino que también ofrezcan una buena experiencia de usuario. Durante mi formación y proyectos, he trabajado en la optimización del rendimiento de aplicaciones, la implementación de autenticación segura y la integración de APIs para ofrecer funcionalidades completas.
+
+Además de la parte técnica, valoro mucho el trabajo en equipo y la comunicación efectiva. He tenido la oportunidad de aplicar la metodología Scrum, colaborando con otros desarrolladores en entornos ágiles para planificar, iterar y entregar productos de calidad. Me adapto rápidamente a nuevas herramientas y frameworks, y siempre estoy buscando maneras de mejorar mi código y aprender algo nuevo.
+
+🔍 Actualmente, estoy en búsqueda de nuevas oportunidades donde pueda aportar mis conocimientos, seguir aprendiendo y asumir nuevos desafíos que me permitan crecer tanto a nivel técnico como profesional.
 
 🔍 **Actualmente, estoy en búsqueda de nuevas oportunidades** donde pueda aportar mis conocimientos, seguir aprendiendo y enfrentar nuevos desafíos.  
 
 ## 📫 Conéctate conmigo  
-📍 [LinkedIn](https://www.linkedin.com/in/aramisurena)  
+📍 [LinkedIn](https://www.linkedin.com/in/aram%C3%ADs-ure%C3%B1a-309b3334b/?trk=opento_sprofile_pfeditor)  
 📍 [GitHub](https://github.com/UrenaAramis)  
 
 ¡Gracias por visitar mi perfil! 😊  
