@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Aramís Ureña  
 
-<!--
-**UrenaAramis/UrenaAramis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** especializado en **JavaScript, TypeScript y React**, con un fuerte enfoque en **Next.js** para desarrollo frontend.  
 
-Here are some ideas to get you started:
+🚀 Mi pasión por la programación comenzó en la secundaria y, con el tiempo, decidí profesionalizarme en esta disciplina. Me formé en **Soy Henry**, donde fortalecí mis habilidades en desarrollo web y profundicé mis conocimientos en tecnologías modernas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso y disfruto:  
+- ⚡ **Frontend:** React, Next.js, Tailwind CSS  
+- 🔧 **Backend:** Node.js, NestJS  
+- 📦 **Base de datos:** PostgreSQL, Supabase  
+- 🌍 **Otras herramientas:** Vercel, Git, Docker  
+
+## 💡 Sobre mí  
+Durante mi formación, he trabajado en diversos proyectos, enfocándome en mejorar la accesibilidad, rendimiento y experiencia del usuario. También he desarrollado habilidades de trabajo en equipo aplicando la **metodología Scrum**, colaborando en entornos ágiles para la entrega eficiente de soluciones digitales.  
+
+🔍 **Actualmente, estoy en búsqueda de nuevas oportunidades** donde pueda aportar mis conocimientos, seguir aprendiendo y enfrentar nuevos desafíos.  
+
+## 📫 Conéctate conmigo  
+📍 [LinkedIn](https://www.linkedin.com/in/aramisurena)  
+📍 [GitHub](https://github.com/UrenaAramis)  
+
+¡Gracias por visitar mi perfil! 😊  
