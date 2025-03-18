@@ -20,7 +20,10 @@ Además de la parte técnica, valoro mucho el trabajo en equipo y la comunicaci�
 🔍 **Actualmente, estoy en búsqueda de nuevas oportunidades** donde pueda aportar mis conocimientos, seguir aprendiendo y enfrentar nuevos desafíos.  
 
 ## 📫 Conéctate conmigo  
-📍 [LinkedIn](https://www.linkedin.com/in/aram%C3%ADs-ure%C3%B1a-309b3334b/?trk=opento_sprofile_pfeditor)  
-📍 [GitHub](https://github.com/UrenaAramis)  
+📌 **LinkedIn:** [Aramís Ureña](https://www.linkedin.com/in/aram%C3%ADs-ure%C3%B1a-309b3334b/?trk=opento_sprofile_pfeditor)  
+💻 **GitHub:** [UrenaAramis](https://github.com/UrenaAramis)  
+📧 **Correo:** u.aramis2@gmail.com  
+📞 **Teléfono:** +54 9 341 200 2100  
+
 
 ¡Gracias por visitar mi perfil! 😊  
