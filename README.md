@@ -2,7 +2,7 @@
 
 💻 **Full Stack Developer** especializado en **JavaScript, TypeScript y React**, con un fuerte enfoque en **Next.js** para desarrollo frontend.  
 
-🚀 Mi pasión por la programación comenzó en la secundaria y, con el tiempo, decidí profesionalizarme en esta disciplina. Me formé en **Soy Henry**, donde fortalecí mis habilidades en desarrollo web y profundicé mis conocimientos en tecnologías modernas.  
+🚀 Mi primer contacto con la programación fue en la secundaria donde adquirí conocimiento básicos, con el tiempo, decidí profesionalizarme en esta disciplina. Me formé en **Soy Henry**, donde fortalecí mis habilidades en desarrollo web y profundicé mis conocimientos en tecnologías modernas.  
 
 ## 🛠️ Tecnologías que uso y disfruto:  
 - ⚡ **Frontend:** React, Next.js, Tailwind CSS  
